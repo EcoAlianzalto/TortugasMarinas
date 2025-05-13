@@ -92,16 +92,16 @@ h6 {
   z-index: 997;
 }
 
-.header .logo {
+.header .logo-h {
   line-height: 1;
 }
 
-.header .logo img {
+.header .logo-h img {
   max-height: 32px;
   margin-right: 8px;
 }
 
-.header .logo h1 {
+.header .logo-h h1 {
   font-size: 30px;
   margin: 0;
   font-weight: 400;
