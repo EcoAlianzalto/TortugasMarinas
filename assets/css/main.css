@@ -399,7 +399,7 @@ h6 {
   margin: 0 0 15px 0;
 }
 
-.logo-container {
+.logo-container-f {
   padding: 30px 0;
   display: flex;
   justify-content: center; 
@@ -408,7 +408,7 @@ h6 {
   gap: 30px; 
 }
 
-.logo img {
+.logo-footer img {
   width: 150px; 
   height: auto; 
   max-width: 100%;  
