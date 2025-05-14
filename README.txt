@@ -7,7 +7,7 @@ realizadas en zonas de alimentación. Este seguimiento permite evaluar el estado
 Todas las fotografías e información presentadas en esta galería son propiedad de Eco-Alianza de Loreto A.C. y Grupo Tortuguero de las Californias.
 Cualquier uso, reproducción o distribución de este contenido debe contar con permiso previo de las organizaciones responsables.
 
-**************************************************************************************************************************************
+**********************************************************************************************
 
 Sea Turtle Gallery
 
